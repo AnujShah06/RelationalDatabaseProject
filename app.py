@@ -1,4 +1,4 @@
-#database project
+#database project, git fixed
 from flask import Flask
 from flask_cors import CORS
 
